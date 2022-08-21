@@ -11,6 +11,7 @@ Works on both Online and Singleplayer games
     - [x] Perfume Speed
   - [x] Jump
   - [ ] Heatseeking Items
+  - [x] Autopilot 
 
 
 
