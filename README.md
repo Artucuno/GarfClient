@@ -24,7 +24,6 @@ Works on both Online and Single-player games
 2. Download the [latest](/downloads/latest/Assembly-CSharp.dll) DLL file.
 
 3. Locate the Assembly-CSharp.dll in your Garfield Kart Folder
-  - `C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart\GarfieldKartNoMulti_Data\Managed`
   - `C:\Program Files (x86)\Steam\steamapps\common\Garfield Kart\Garfield_Master7_Data\Managed`
 4. Replace the Assembly-CSharp.dll with the one downloaded in [Step 2](/downloads/latest/Assembly-CSharp.dll).
 5. Have fun!
