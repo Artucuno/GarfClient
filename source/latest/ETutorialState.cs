@@ -1,0 +1,20 @@
+public enum ETutorialState
+{
+	Acceleration,
+	Direction_PC,
+	Direction_Gyro,
+	Direction_Tactile,
+	Direction_Choice,
+	Brake,
+	Drift,
+	Drift_TryAgain,
+	Drift_NotBad,
+	Drift_Perfect,
+	Bonus,
+	Bonus_Lasagna,
+	Bonus_2,
+	Bonus_Pie,
+	Bonus_PieFailed,
+	Bonus_PieBehind,
+	End
+}
