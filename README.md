@@ -1,4 +1,7 @@
-# GarfClient
+# GarfClient (v1.0)
+
+[Discord](https://discord.gg/KTJNHyAh2e)
+
 A Working Garfield Kart Hack Client
 
 Works on both Online and Single-player games
