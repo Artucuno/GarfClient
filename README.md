@@ -16,6 +16,7 @@ Works on both Online and Single-player games
   - [ ] Heatseeking Items
   - [x] Autopilot (Keybind: 1)
     - Drives for you!
+  - [x] Works in Split-Screen (Furious Racing)
 
 # Garfield Kart Installation
 1. Opt into the multi_test Garfield Kart beta on Steam.
@@ -34,7 +35,6 @@ Works on both Online and Single-player games
 # Furious Racing Installation
 NOTE: The Furious Racing Hack is still a WIP - Watch out for bugs and stuff.
 TODO:
-  - [ ] Keybinds
   - [ ] Unlock all steam achievements button
   - [ ] Rework movement
 1. Download the [latest](/downloads/latest/furious/Assembly-CSharp.dll) DLL file.
